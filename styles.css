@@ -1,5 +1,4 @@
 
-/* Your CSS Code here. */
 .holder {
     display: flex;           
     justify-content: center;  
@@ -12,7 +11,8 @@
     width: 100px;            
     height: 100px;           
     background-color: red;    
-    display: block;           
+    display: flax;           
     justify-content: center; 
+/* 	align-items: center; */
     text-align: center;      
 }
